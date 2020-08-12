@@ -1,4 +1,4 @@
-### Hi there, I'm Muhammad USama 👋
+### Hi there, I'm Muhammad Usama 👋
 
 ## I'm a Student, Developer and Engineer !
 
