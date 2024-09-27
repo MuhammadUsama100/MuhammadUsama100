@@ -33,5 +33,4 @@ I’m continuously expanding my knowledge in everything from **ML/DL** to **Web 
 - Passionate about **networking**, **security**, and innovative **cloud solutions**.
 
 📫 **Let's Connect:**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MuhammadUsama100)
