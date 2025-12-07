@@ -39,18 +39,7 @@ Vision-Language Models • Blender Python • 3D Assets & Rendering
 Docker • Kubernetes • FastAPI • .NET • NestJS • Django  
 GitHub Actions • Redis • AWS • LocalStack  
 
----
 
-# 🔥 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/MuhammadUsama100">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadUsama100&repo=NURBGen&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/MuhammadUsama100">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadUsama100&repo=MARVEL-40M&theme=tokyonight" />
-  </a>
-</p>
 
 ---
 
