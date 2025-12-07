@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">Hi, I'm <span style="color:#4CAF50;">Muhammad Usama</span> 👋 </h1>
+<h1 align="center">Hi, I'm <span style="color:#4CAF50;">Muhammad Usama</span> :) 👋 </h1>
 <h3 align="center">Researcher • ML Engineer • Generative AI • 3D Vision</h3>
 
 <p align="center">
@@ -62,14 +62,7 @@ with experience across **LLMs, diffusion models, multimodal systems**, and scala
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MuhammadUsama100&show_icons=true&count_private=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadUsama100&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadUsama100&layout=compact&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadUsama100&theme=tokyonight" />
