@@ -15,9 +15,7 @@
 
 # 🚀 About Me
 
-I’m a **Research Assistant** working at the intersection of  
-**Generative AI, Multimodal ML, CAD Geometry, and 3D Vision**,  
-with experience across **LLMs, diffusion models, multimodal systems**, and scalable ML engineering.
+I’m a **Research Assistant** working at the intersection of  **Generative AI, Multimodal ML, CAD Geometry, and 3D Vision**,  with experience across **LLMs, diffusion models, multimodal systems**, and scalable ML engineering.
 
 - 🧠 Published in **leading international ML/AI venues**  
 - 🔬 Focus: **Generative AI, NURBS-based CAD modeling, 3D understanding**  
