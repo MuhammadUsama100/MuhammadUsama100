@@ -6,9 +6,9 @@
   <a href="https://github.com/MuhammadUsama100">
     <img src="https://komarev.com/ghpvc/?username=MuhammadUsama100&style=flat-square&color=green" alt="Profile Views"/>
   </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <!-- <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=MuhammadUsama100&theme=algolia&no-bg=true&no-frame=true&column=4" />
-  </a>
+  </a> -->
 </p>
 
 ---
