@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">Hi, I'm <span style="color:#4CAF50;">Muhammad Usama</span> :) 👋 </h1>
+<h1 align="center">Hi, I'm <span style="color:#4CAF50;">Muhammad Usama</span>  👋 </h1>
 <h3 align="center">Researcher • ML Engineer • Generative AI • 3D Vision</h3>
 
 <p align="center">
@@ -68,7 +68,6 @@ I’m a **Research Assistant** working at the intersection of  **Generative AI, 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhammadUsama100&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadUsama100&theme=tokyonight" />
 
-  <img src="https://streak-stats.demolab.com?user=MuhammadUsama100&theme=tokyonight" />
 </p>
 
 ---
